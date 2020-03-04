@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "keyboardmaster",
+    "name": "KeyboardMaster",
+    "description": "KeyboardMaster.",
+    "version": "1.0",
+    "mcversion": "1.6.4",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "SkyStardust"
+    ],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
